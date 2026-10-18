@@ -1,0 +1,9 @@
+# This program allows the user try and enter the correct password , however they have 5 attemps only otherwise they shall be locked out of device
+password = 53901
+  guess = input("Enter a five digit passcode in range 1-10"))
+  for attemps in range(5)
+  if guess == password
+  print("Unlocked")
+  else:
+  print("passcode not identified")
+  
